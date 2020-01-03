@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "mbm-native",
+    "description": "MyBusinessMatches Native App",
+    "slug": "mbm-native",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.1.1",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/app/mbm-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF5D1"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.mbm.nativeX",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.mbm.nativeX"
+    }
+  }
+}
