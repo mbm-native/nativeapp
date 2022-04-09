@@ -32,7 +32,7 @@
     "expo-permissions": "^8.0.0",
     "i18n-js": "^3.2.1",
     "lodash": "^4.17.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "2.8.2",
     "opentok-react-native": "^0.9.7",
     "prop-types": "^15.7.2",
